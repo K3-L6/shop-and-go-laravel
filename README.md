@@ -1,3 +1,3 @@
-# Online Shopping and Inventory Monitoring System for Techshop28
+# Shop and Go: Online Shop and Inventory Monitoring System
 
 Information Technology Project of Ken Lising for Techshop28
