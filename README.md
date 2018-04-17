@@ -37,6 +37,6 @@ You can create your own virtual server using this document root : C:/xampp/htdoc
 
 ## Authors
 * **John Kenneth LIsing** - Lead programmer
-* **John Mico Dela Cruz** - Documentation and design
+* **John Mico Dela Cruz** - Documentation and analytics
 * **Kalvin Reginald Cueto** - Testing and design
 * **Lhen Eilrig Alcoreza** - Testing and design
