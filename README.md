@@ -12,7 +12,7 @@
 5) Type "php artisan key:generate" and press enter to generate key for your web application
 6) Type "php artisan migrate:refresh --seed" and press enter to create all table in your database and setup default datas
 7) Run your server by going to the root of your project via CMD and typing "php artisan serve"
-8) Defaults Email: 'techshop28dev@gmail.com', Password: password
+8) Defaults Email: techshop28dev@<span></span>gmail.com, Password: password
 
 *NOTE*
 You can create your own virtual server using this document root : C:/xampp/htdocs/your-project-name/public
