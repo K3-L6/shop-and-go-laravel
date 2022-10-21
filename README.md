@@ -1,12 +1,5 @@
 # Shop and Go: Online Shop and Inventory Monitoring System
 
-## Introduction
-In this era of globalization, the Internet has been an ongoing proof of information revolution. This versatile facility caters to all kinds of ideas from various fields of specialization. More so, the internet’s steadfast growth provides an easy and convenient way for a man to fully complete tasks in an convenient manner. 
-
-With the Internet’s fast paced trend, one of the most notable features that arise from it is Online Shopping. It has become a staple and a commonplace in view of the growing online population. Monsuwe et al., (2004) refers to Online shopping as the behaviour of the consumer when shopping in an online store or a website used for online purchasing. Aside from the comfort it offers to consumers, online shopping has also paved the way for retailers to decrease store visits, overhead expenses and look into a wide range of products the store can offer.
-
-However, striking a balance between the consumer and merchants need’s can be quite the struggle. Although online shopping has been used for comfort and convenient access, locating and knowing the availability of the product the store offers could equate to complex dilemmas.  Endless updates on stock levels must all happen in real time and must be done within a matter of seconds. This particular circumstance led the proponents to apply the benefits of the Internet to provide an efficient way of communication between the consumer and retailer. In addition, supplying the right amount of attention to consumers needs can build up the relationship for both variables.
-
 ## Screenshots
 ![index](https://user-images.githubusercontent.com/32229808/38841955-a660da1a-4219-11e8-84e0-c7ebfff3e908.png)
 ![customer-login](https://user-images.githubusercontent.com/32229808/38841971-bd00c58c-4219-11e8-8a8e-e74503628e65.png)
